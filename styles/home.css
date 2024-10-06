@@ -5,7 +5,7 @@
 .text {
     position: absolute;
     margin-top: 220px;
-    padding-left: 90px;
+    padding-left: 50px;
     font-family: "Merienda", cursive;
     font-size: 90px;
 
@@ -13,7 +13,7 @@
 .tese{
     position: absolute;
     margin-top: 220px;
-    padding-left: 90px;
+    padding-left: 10px;
     font-family: "Merienda", cursive;
     font-size: 90px;
 }
@@ -41,22 +41,22 @@ nav {
 .parag {
     position: absolute;
     margin-top: 450px;
-    padding-left: 100px;
+    padding-left: 90px;
     font-size: 20px;
 }
 
 .our {
     position: absolute;
     margin-top: 450px;
-    padding-left: 130px;
+    padding-left: 110px;
     font-size: 20px;
     padding-left: 160px;
 }
 
 .book {
     position: absolute;
-    margin-top: 530px;
-    margin-left: 190px;
+    margin-top: 540px;
+    margin-left: 110px;
     padding: 20px 32px 20px 32px;
     gap: 10px;
     border-radius: 30px;
@@ -65,12 +65,12 @@ nav {
 
 .books {
     position: absolute;
-    margin-top: 530px;
-    margin-left: 370px;
-    padding: 20px 32px 20px 32px;
+    margin-top: 540px;
+    margin-left: 310px;
+    padding: 20px 30px 20px 30px;
     gap: 10px;
     border-radius: 30px;
-    border: 1.5px solid #2C2F24
+    border: 1.8px solid #2C2F24
 }
 .hom{
 

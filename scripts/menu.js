@@ -33,7 +33,7 @@ function fetchMealsByCategory(categoryName = "Breakfast") {
                         </div>
                        <div class="font">
                             <h5>${food.strMeal}</h5>
-                             <p>${ 55,7} $ </p>
+                             <p> $ ${ 20.8} </p>
                          </div>
                    </div>
             `
