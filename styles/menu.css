@@ -1,0 +1,62 @@
+
+.menu-buttons {
+    text-align: center;
+} 
+.menu-buttons .container > h2{
+    font-size:100px;
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+.menu-buttons .container > p {
+    width: 557px;
+    margin: auto;
+    font-size: 18px;
+    margin-bottom: 50px;
+}
+.menu-buttons .btns {}
+.menu-buttons .btns button {
+    padding: 12px 32px;
+    border-radius: 50px;
+    border: 1px solid#d8dfd0;
+    background-color: transparent;
+    transition: background ease 0.4s;
+}
+.menu-buttons .btns button.active {
+    background-color: #AD343E;
+    color: white;
+}
+.menu-buttons .btns button:hover {
+    background-color: #AD343E;
+    color: white;
+}
+.foods{
+    display: flex;
+    gap: 24px;
+    flex-wrap: wrap;
+    padding-top: 90px;
+    padding-bottom: 100px;
+  
+}
+.food-card{
+    width: 306px;
+    border-radius: 12px;
+    border: 1.5px solid #DBDFD0;
+    overflow: hidden;
+    text-align: center;
+    margin-bottom: 20px;
+
+    img{
+        width: 100%;
+    }
+}
+.font{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 25px;
+    P{
+     color: #AD343E;
+     font-weight: 900;
+margin-top: 15px;
+    }
+}

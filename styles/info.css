@@ -1,0 +1,56 @@
+
+
+.info {
+    text-align: center;
+    h2{
+        font-size: 55px;
+        margin-bottom: 35px;
+    }
+    img{
+        display: block;
+        margin: auto;
+        margin-bottom: 26px;
+    }
+}
+.ings h2, .ins h2 {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom:30px ;
+}
+.ings-images {
+    display: grid;
+   flex-wrap: wrap;
+    grid-template-columns: repeat(4,1fr);
+    justify-content: space-between;
+    color: #AD343E;
+
+      gap: 10px;
+      padding-left: 100px;
+    div {
+        text-align: center;
+        width: 150px;
+        img {
+            width: 100%;
+            
+        }
+    }
+}
+
+.ingr{
+    text-align: center;
+}
+.ins {
+    gap: 900px;
+}
+.line{
+    height: 20px;
+    
+}
+.recipe{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+.happy{
+    margin-bottom: 50px;
+}

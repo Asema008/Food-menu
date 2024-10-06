@@ -1,0 +1,96 @@
+.black-header {
+    background: #474747;
+    padding: 10px 0;
+
+    * {
+        color: white;
+    }
+}
+
+.black-header .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.black-l,
+.black-r {
+    display: flex;
+}
+.the-meal{
+    height: 35px;
+}
+
+.black-l {
+    gap: 25px;
+
+    p span {
+        margin-right: 10px;
+        vertical-align: middle;
+    }
+}
+
+.black-r {
+    gap: 4px;
+}
+
+.black-r div {
+    width: 27px;
+    height: 27px;
+    border-radius: 50%;
+    background: #f9f9f712;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header-bottom{
+    display: flex;
+    justify-content: space-between;
+    padding: 32px;
+    
+}
+.The{
+    display: flex;
+    gap: 10px;
+}
+
+.logo{
+    display: flex;
+    font-family: "Merienda", cursive;
+    width: 0px; 
+    height: 40px;
+    padding-left: 70px;
+    text-align: center;
+}
+.loko{
+    display: flex;
+    font-size: 30px;
+
+}
+.japan{
+    padding-left: 2400px;
+}
+nav {
+    display: flex;
+    gap: 8px;
+   
+}
+nav a{
+    padding: 4px 4px;
+    border-radius: 10px;
+    transition: background ease 0.4s;
+    color:black;
+    text-decoration: none;
+    
+}
+nav a:hover {
+    background: #DBDFD0;
+    
+}
+.btn{
+    padding: 10px 20px 10px 20px;
+    gap: 9px;
+    border-radius: 20px;
+     border: 1.5px solid #2C2F24
+}

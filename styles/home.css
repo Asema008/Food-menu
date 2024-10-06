@@ -1,0 +1,188 @@
+.main-img {
+    padding-left: 670px;
+}
+
+.text {
+    position: absolute;
+    margin-top: 220px;
+    padding-left: 90px;
+    font-family: "Merienda", cursive;
+    font-size: 90px;
+
+}
+.tese{
+    position: absolute;
+    margin-top: 220px;
+    padding-left: 90px;
+    font-family: "Merienda", cursive;
+    font-size: 90px;
+}
+
+nav {
+    display: flex;
+    gap: 8px;
+    color:black;
+}
+.btn{
+    padding: 10px 20px 10px 20px;
+    gap: 9px;
+    border-radius: 20px;
+     border: 1.5px solid #2C2F24;
+}
+.tese {
+    margin-left: 60px;
+    position: absolute;
+    margin-top: 220px;
+    padding-left: 90px;
+    font-family: "Merienda", cursive;
+    font-size: 80px;
+}
+
+.parag {
+    position: absolute;
+    margin-top: 450px;
+    padding-left: 100px;
+    font-size: 20px;
+}
+
+.our {
+    position: absolute;
+    margin-top: 450px;
+    padding-left: 130px;
+    font-size: 20px;
+    padding-left: 160px;
+}
+
+.book {
+    position: absolute;
+    margin-top: 530px;
+    margin-left: 190px;
+    padding: 20px 32px 20px 32px;
+    gap: 10px;
+    border-radius: 30px;
+    background-color: brown;
+}
+
+.books {
+    position: absolute;
+    margin-top: 530px;
+    margin-left: 370px;
+    padding: 20px 32px 20px 32px;
+    gap: 10px;
+    border-radius: 30px;
+    border: 1.5px solid #2C2F24
+}
+.hom{
+
+}
+.section2 {
+    padding-top: 92px;
+    padding-bottom: 120px;
+    /* display: flex; */
+    height: 800px;
+}
+
+.section2 h2 {
+    text-align: center;
+    font-size: 55px;
+    font-weight: 500px;
+    margin-bottom: 64px;
+}
+
+.h-menu {
+    display: flex;
+    gap: 25px;
+    
+
+}
+
+.h-menu-card {
+    border: 1.5px solid #DBDFD0;
+    width: 306px;
+    border-radius: 12px;
+    padding: 40px 34px 32px;
+    text-align: center;
+
+}
+
+.h-menu-card .bg-img {
+    width: 100px;
+    margin: auto;
+    height: 100px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #f3f3f0;
+    margin-bottom: 30px;
+}
+
+.h-menu-card h4 {
+    margin-bottom: 20px;
+}
+
+.h-menu-card p {
+    margin-bottom: 20px;
+
+}
+
+.h-menu-card a {
+    margin-bottom: 20px;
+    color: #AD343E;
+    width: Fixed (111px)px;
+    height: Fixed (26px)px;
+    gap: 10px;
+    border-radius: 12px 0px 0px 0px;
+    opacity: 0px;
+text-decoration: none;    
+}
+
+.section3-img {
+    position: relative;
+    
+}
+.form-text{
+    display: flex;
+    
+}
+.section3-address {
+    width: 430px;
+    height: 400px;
+    position: absolute;
+    top:210px;
+    margin-left: 260px;
+    background: #474747;
+    color: white;
+    padding: 50px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.section3-kllas{
+    font-size: 5px;
+}
+.big-text{
+    font-size: 50px;
+    margin-bottom: 15px;
+    color: black;
+}
+.secton3-text{
+    
+    right: 40px;
+    width: 6000px;
+    height: 1000px;
+    
+    margin-left: 150px;
+    padding-top: 70px;
+    font-size: 20px;
+    color: black;
+}
+.mare{
+    padding: 20px 32px 20px 32px;
+    gap: 10px;
+    border-radius: 30px;
+    border: 1.5px solid #2C2F24
+}
+.cars{
+    font-size: 30px;
+    margin-bottom: 50px;
+}
